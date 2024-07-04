@@ -97,6 +97,20 @@
         "contactEmail": "nijugoci@mailinator.com",
         "contactPhone": "+1 (114) 254-3088"
       }
+    },
+    {
+      "id": "cfb1",
+      "type": "Full-Time",
+      "title": "Vue",
+      "description": "Ullam labore similiq",
+      "salary": "Under $50K",
+      "location": "Veniam sit qui non ",
+      "company": {
+        "name": "Barr Delacruz Trading",
+        "description": "Vitae tempore volup",
+        "contactEmail": "rukupefaz@mailinator.com",
+        "contactPhone": "+1 (488) 681-5661"
+      }
     }
   ]
 }
