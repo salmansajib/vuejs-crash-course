@@ -85,31 +85,17 @@
       }
     },
     {
-      "id": "7f4f",
-      "type": "Part-Time",
-      "title": "Xerxes Maxwell",
-      "description": "Ut voluptas quibusda",
-      "salary": "$80K - $90K",
-      "location": "Est ex rerum assumen",
-      "company": {
-        "name": "Watts Carney Plc",
-        "description": "Ipsum error mollit d",
-        "contactEmail": "nijugoci@mailinator.com",
-        "contactPhone": "+1 (114) 254-3088"
-      }
-    },
-    {
-      "id": "cfb1",
+      "id": "106b",
       "type": "Full-Time",
-      "title": "Vue",
-      "description": "Ullam labore similiq",
-      "salary": "Under $50K",
-      "location": "Veniam sit qui non ",
+      "title": "Eaton Kirby",
+      "description": "Ex animi amet in e",
+      "salary": "$175K - $200K",
+      "location": "Non corporis proiden",
       "company": {
-        "name": "Barr Delacruz Trading",
-        "description": "Vitae tempore volup",
-        "contactEmail": "rukupefaz@mailinator.com",
-        "contactPhone": "+1 (488) 681-5661"
+        "name": "Cash Kelley Associates",
+        "description": "Voluptatem omnis ve",
+        "contactEmail": "faqefotov@mailinator.com",
+        "contactPhone": "+1 (252) 613-4537"
       }
     }
   ]
